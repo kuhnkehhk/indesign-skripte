@@ -1,0 +1,23 @@
+# Berichte, die die Skripte beim Lauf erzeugen
+grep-stile-bericht.txt
+platzhalter-bericht*.txt
+bildpfad-bericht.txt
+
+# Korrigierte Kopien aus dem Bildpfad-Check
+*_korrigiert.csv
+*_korrigiert[0-9]*.csv
+*_korrigiert.txt
+*_korrigiert[0-9]*.txt
+
+# InDesign
+*.idlk
+Backup/
+*~.indd
+
+# Betriebssystem
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Node
+node_modules/
